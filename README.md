@@ -48,4 +48,4 @@ A simple Python-based Student Management System that helps manage student record
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/abelgeorgerobin2020-lang/student-management-system.git
+git clone https://github.com/Abel-Robin/student-management-system.git
